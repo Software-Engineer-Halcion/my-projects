@@ -1,0 +1,3 @@
+my program for Halcion car rentals is an applicable program in real world situation for a car renting company whereby the company is able to track all of its cars(those rented and those available),those who have them,the flow of money and making the company safer and preventing losses
+The documentation for Halcion car rentals explains the whole program from scratch making it easy to understand and debug
+This program for user and password is a login program to allow a user to access services of a certain platform,like the one used Halcion online banking making it safer for the user to be secure while browsing
